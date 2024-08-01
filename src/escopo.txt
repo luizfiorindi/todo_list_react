@@ -1,0 +1,7 @@
+Criar uma Lista de Tarefas
+
+1 - Incluir uma nova tarefa (não incluir tarefa vazia)
+2 - Listar tarefas
+3 - Marcar tarefa como finalizada
+4 - Excluir tarefa
+5 - Persistir os dados
